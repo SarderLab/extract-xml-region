@@ -7,4 +7,4 @@ This code contains options for extraction at the top:
   - size_thresh ==> size threshold in pixels - excludes small objects
   - final_image_size ==> size of the output ROI patches
   - white_background ==> mask the structure - set the background to white (set to False for whole ROI)
-  - extract_one_region ==> include only one annotation per ROI (ehite_background must be set to True)  
+  - extract_one_region ==> include only one annotation per ROI (white_background must be set to True)  
